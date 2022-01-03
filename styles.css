@@ -118,3 +118,20 @@ padding-top: 35px;
 .price-col {
   padding: 3% 2%;
 }
+#cta{
+  text-align: center;
+  background: #ef8172;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+#ctah{
+  padding-bottom: 2%;
+}
+#footer{
+  text-align: center;
+  background: #343a40;
+
+}
+.cpy{
+    font-color: #FFF;
+}
